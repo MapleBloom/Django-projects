@@ -10,7 +10,7 @@
 ### Description
 Three flatpages as first try.
 
-:arrow_up: [to content](https://github.com/Django-projects/First-projects/blob/main/first_django/README.md#Content)
+:arrow_up: [to content](https://github.com/MapleBloom/Django-projects/blob/main/first_django/README.md#Content)
 
 
 ### Case to solve    
@@ -38,6 +38,7 @@ No specific data required.
 ....
 
 :arrow_up: [to content](https://github.com/MapleBloom/Django-projects/blob/main/first_django/README.md#Content)
+
 
 
 Star ⭐️⭐️⭐️ my project if you like it or think it is useful
